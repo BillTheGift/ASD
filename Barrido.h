@@ -1,4 +1,5 @@
-
+//
+/*el hehe*/
 // Barrido.h : main header file for the Barrido application
 //
 #pragma once
